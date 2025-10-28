@@ -1,0 +1,6 @@
+[submodule "gui"]
+	path = gui
+	url = https://github.com/sbOogway/tesi-gui
+[submodule "overleaf"]
+	path = overleaf
+	url = https://github.com/sbOogway/tesi-overleaf
