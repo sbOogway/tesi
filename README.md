@@ -18,7 +18,7 @@ need to use RS485?
 https://github.com/lvgl/lvgl
 
 ### ARM Compiler
-`sudo apt-get install gcc-arm-linux-gnueabihf`
+`sudo apt-get install gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf`
 
 
 ### embedded linux
